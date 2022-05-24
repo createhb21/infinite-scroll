@@ -1,0 +1,12 @@
+.pokemons_wrap {
+	width: 900px;
+	margin: 0 auto;
+	padding: 1rem 0;
+}
+
+.pokemon_list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	margin-bottom: 1rem;
+}
